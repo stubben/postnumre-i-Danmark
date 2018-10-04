@@ -1,4 +1,4 @@
-# postnumre-i-Danmark
+# Postnumre i Danmark
 Postnumre inddelt i region -> kommune -> postnummer = navn.
 
 XLS fil hentet herfra: https://www.postnord.dk/kundeservice/postnummerkort
